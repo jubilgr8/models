@@ -6,8 +6,8 @@ Ks 0.075000 0.075000 0.075000
 Ns 28.763239
 illum 2
 d 1.000000
-map_Ka https://github.com/jubilgr8/models/raw/main/2_388452_56775_R255_G255_B255.png
-map_Kd https://github.com/jubilgr8/models/raw/main/2_388452_56775_R255_G255_B255.png
+map_Ka https://raw.githubusercontent.com/jubilgr8/models/main/2_388452_56775_R255_G255_B255.png
+map_Kd https://raw.githubusercontent.com/jubilgr8/models/main/2_388452_56775_R255_G255_B255.png
 newmtl Material4014
 Ka 0.257132 0.257132 0.257132
 Kd 0.819608 0.819608 0.819608
@@ -22,8 +22,8 @@ Ks 0.075000 0.075000 0.075000
 Ns 28.763239
 illum 2
 d 1.000000
-map_Ka https://github.com/jubilgr8/models/raw/main/falsetto-16j7611-by-jf-fabrics_R255_G255_B255.png
-map_Kd https://github.com/jubilgr8/models/raw/main/falsetto-16j7611-by-jf-fabrics_R255_G255_B255.png
+map_Ka https://raw.githubusercontent.com/jubilgr8/models/main/falsetto-16j7611-by-jf-fabrics_R255_G255_B255.png
+map_Kd https://raw.githubusercontent.com/jubilgr8/models/main/falsetto-16j7611-by-jf-fabrics_R255_G255_B255.png
 newmtl Material4026
 Ka 0.257132 0.257132 0.257132
 Kd 0.819608 0.819608 0.819608
