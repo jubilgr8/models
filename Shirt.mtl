@@ -25,8 +25,8 @@ Ks 0.0000 0.0000 0.0000
 Ns 28.763239
 illum 2
 d 0.000000
-map_Ka plaid.jpg
-map_Kd plaid.jpg
+map_Ka redblack.jpg
+map_Kd redblack.jpg
 newmtl Material4026
 Ka 0.257132 0.257132 0.257132
 Kd 0.819608 0.819608 0.819608
